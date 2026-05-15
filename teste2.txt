@@ -1,1 +1,1 @@
-Adicionando texto pra poder commitar essas mudanças
+Alterando texto pra poder commitar essas alterações
